@@ -22,4 +22,4 @@ This project analyzes IPL performance using Power BI and DAX.
 - players-data-updated.csv
 - teams_data.csv
 
-  ## Dashboard Image
+
